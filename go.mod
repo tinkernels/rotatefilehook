@@ -1,4 +1,4 @@
-module github.com/ttys3/rotatefilehook
+module github.com/tinkernels/rotatefilehook
 
 go 1.14
 
